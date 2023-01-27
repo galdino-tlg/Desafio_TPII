@@ -1,0 +1,38 @@
+Desafio: Técnicas de programação II
+
+1. O preço da consulta é caro por causa da especialização ?
+A especialização influência no preço da consulta. Fica bem claro essa 
+informação no gráfico de preço médio da consulta por especialidade, 
+onde é possivel observar a disparidade entre as especialidades. Sendo 
+que o maior valor (R$456,15) cobrado pelo especialista em eprodução 
+humana e o menor valor (R$80,25) cobrado pelo especialista em 
+administração em saúde.
+
+
+2. A consulta é cara por causa da região (cidade ou estado) ?
+O valor da consulta varia tanto por região quanto por cidade. No gráfico 
+de preço médio da consulta por estado e cidades é possivel observar a 
+disparidade entre os estados e cidades.
+
+
+3. A quantidade de reviews influencia o preço da consulta ?
+A quantidade de reviews que ummédico tem nãoinfluência no valor da consulta. 
+O médico(a) com maior número de reviews cobra R$290,00 por consulta. Médicos(as)
+que poucos reviews apresentaram valores de consulta variados. Nada indica que
+haja correlação entre os dois dados observados.
+
+
+4. Atender por telemedicina influencia o preço da consulta ?
+Atender por telemedicina deixa o valor da consulta mais caro, para a maioria das
+epecialidades. Ainda é possivel observar que algumas poucas especialidades não 
+possuem a possibilidade de atendimento nesse formato. Mas em termos gerais, o 
+valor médio da consulta realiazada por profissionais que praticam a telemedicina 
+é R$44,37 mais alto do que os que não praticam.
+
+
+5. Gênero X Preço
+Quando realizado uma comparação do preço médio da consulta por gênero, é possivel 
+observar que homens cobram em média R$ 22.73 a mais pela consulta do que as mulheres
+
+6. Região/Cidade x preço
+Aqui é possivel confirmar o que foi apresentado no item 2.
